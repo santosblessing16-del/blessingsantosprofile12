@@ -159,9 +159,6 @@ text-decoration: none;
   mix-blend-mode: lighten;
 
 }
-/* =========================
-   RESPONSIVE DESIGN
-========================= */
 
 /* Tablet */
 @media (max-width: 992px){
