@@ -157,12 +157,7 @@ text-decoration: none;
   object-fit: cover;
   top: 30px;
   mix-blend-mode: lighten;
-
 }
-/* =========================
-   RESPONSIVE DESIGN
-========================= */
-
 /* Tablet */
 @media (max-width: 992px){
 
